@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BarberPro CRM",
+  "description": "Un sistem complet de management pentru frizerii, incluzând programări, gestiunea clienților, statistici și asistent AI pentru marketing și fidelizare.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
